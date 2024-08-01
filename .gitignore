@@ -3,3 +3,4 @@ node_modules
 example/ios/Pods
 example/ios/TtlockExample.xcworkspace
 .idea
+.npmrc

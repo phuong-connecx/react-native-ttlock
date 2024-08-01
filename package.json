@@ -60,7 +60,7 @@
     "react": "16.11.0",
     "react-native": "0.62.2",
     "release-it": "^13.5.8",
-    "typescript": "^3.8.3"
+    "typescript": "^5.5.4"
   },
   "peerDependencies": {
     "react": "*",
@@ -135,5 +135,8 @@
   },
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.11"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
